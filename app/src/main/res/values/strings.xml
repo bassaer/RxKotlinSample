@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RxKotlinSample</string>
+    <string name="user_id">User ID</string>
 </resources>
